@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>vscode TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/vscode.xml</link>
+    <description>OK Boomer, all the latest TikToks from vscode</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/vscode.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>vscode TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/vscode.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jan 2026 15:31:43 +0000</lastBuildDate>
+    <item>
+      <title>Optimize your SQL queries with custom chat mode in VS Code 💻✨ Watch how AI makes your database faster in seconds! #VSCodeTips #SQLOptimization #GitHubCopilot</title>
+      <link>https://tiktok.com/@vscode/video/7533092195285355806</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oMXKuoeTEC3uAFtCOAVEAAE6iAAiCYD5EI4fRW.image.jpg" / &gt; Optimize your SQL queries with custom chat mode in VS Code 💻✨ Watch how AI makes your database faster in seconds! #VSCodeTips #SQLOptimization #GitHubCopilot</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7533092195285355806</guid>
+      <pubDate>Thu, 31 Jul 2025 04:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Cleaned Up My Blog with Custom Chat in VS Code #ai #blogging #copilot</title>
+      <link>https://tiktok.com/@vscode/video/7533412289915981087</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYDIMAABacqcwAlqAA8ARCiYEovOiPBEBA1iI.image.jpg" / &gt; How AI Cleaned Up My Blog with Custom Chat in VS Code #ai #blogging #copilot</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7533412289915981087</guid>
+      <pubDate>Fri, 01 Aug 2025 00:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your own PostreSQL expert, right in VS Code #vscode #chat #ai </title>
+      <link>https://tiktok.com/@vscode/video/7535508141979618591</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ogQnTOGIAejvAQIIyELRAAEGAgqNAIfZewJI97.image.jpg" / &gt; Your own PostreSQL expert, right in VS Code #vscode #chat #ai </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7535508141979618591</guid>
+      <pubDate>Wed, 06 Aug 2025 16:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Got GPT-5? #vscode #openai </title>
+      <link>https://tiktok.com/@vscode/video/7535962320858598686</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oA9V7jASfAIqV62iBBI0xdAdHiiqiCNXvo5I28~tplv-tiktokx-origin.image.jpg" / &gt; Got GPT-5? #vscode #openai </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7535962320858598686</guid>
+      <pubDate>Thu, 07 Aug 2025 21:42:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Translate MkDocs with a single prompt aka.ms/awesome-copilot #vscode #ai </title>
+      <link>https://tiktok.com/@vscode/video/7538904641141083422</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oI93zSGNgLAMgbCPQPIqSIINI8yuejGfRte5A1~tplv-tiktokx-origin.image.jpg" / &gt; Translate MkDocs with a single prompt aka.ms/awesome-copilot #vscode #ai </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7538904641141083422</guid>
+      <pubDate>Fri, 15 Aug 2025 20:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Install the GitHub MCP server #vscode #mcp #github </title>
+      <link>https://tiktok.com/@vscode/video/7544106732188962078</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o0FE0lDkFAkssGkdARe2ACpEzqyIQVAfAogR9E.image.jpg" / &gt; Install the GitHub MCP server #vscode #mcp #github </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7544106732188962078</guid>
+      <pubDate>Fri, 29 Aug 2025 20:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Install your own MCP server in #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7544571114148597023</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oM1GLEC62IdAwFbnIAAvIee9qZZtRQAjeIbjAj.image.jpg" / &gt; Install your own MCP server in #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7544571114148597023</guid>
+      <pubDate>Sun, 31 Aug 2025 02:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The VS Code team’s favorite extensions! #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7546316204038704415</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ow35jex6REqAIAIf5EcFaCaEIjDAOCABgAf7qC.image.jpg" / &gt; The VS Code team’s favorite extensions! #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7546316204038704415</guid>
+      <pubDate>Thu, 04 Sep 2025 19:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Todos in chat - enabled in the latest #vscode release! #ai #techtok</title>
+      <link>https://tiktok.com/@vscode/video/7549025840760114463</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oQCDHaOiAOI8AI9EjBi0AhDBAoKXAiXwfcYCo1.image.jpg" / &gt; Todos in chat - enabled in the latest #vscode release! #ai #techtok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7549025840760114463</guid>
+      <pubDate>Fri, 12 Sep 2025 02:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The new #mcp registry experience in #vscode</title>
+      <link>https://tiktok.com/@vscode/video/7550860105361657119</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oAqElyeAGBBMefC7AAArpV8aEoIWUFQRAI8QHX~tplv-tiktokx-origin.image.jpg" / &gt; The new #mcp registry experience in #vscode</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7550860105361657119</guid>
+      <pubDate>Wed, 17 Sep 2025 01:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get the most up to date context in agent mode #vscode#ai #mcp</title>
+      <link>https://tiktok.com/@vscode/video/7554465405398551838</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ooGIEAeKILAjYrAAQrLGqXeQbAtARORt6IheEF~tplv-tiktokx-origin.image.jpg" / &gt; Get the most up to date context in agent mode #vscode#ai #mcp</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7554465405398551838</guid>
+      <pubDate>Fri, 26 Sep 2025 18:24:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonnet 4.5 makes its way to coding agent #vscode #ai</title>
+      <link>https://tiktok.com/@vscode/video/7557102671073725726</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_osAODBF4gOY1X4ra6AIlHAiOAvREEA651iAqB.image.jpg" / &gt; Sonnet 4.5 makes its way to coding agent #vscode #ai</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7557102671073725726</guid>
+      <pubDate>Fri, 03 Oct 2025 20:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>So what even is MCP?? #vscode #ai #mcp </title>
+      <link>https://tiktok.com/@vscode/video/7564856866400947487</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ow47mfTEiEj7AIKE6CFRAxPDAYqb3I7Vf8eISw~tplv-tiktokx-origin.image.jpg" / &gt; So what even is MCP?? #vscode #ai #mcp </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7564856866400947487</guid>
+      <pubDate>Fri, 24 Oct 2025 18:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solve real problems with this #mcp server #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7565228510382427422</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_owAAQ0IQIQAjdxeegLLU6kHeYp6ofRAMGJiGAE.image.jpg" / &gt; Solve real problems with this #mcp server #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7565228510382427422</guid>
+      <pubDate>Sat, 25 Oct 2025 18:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Codex now integrated in VS Code… and can be powered by your GitHub Copilot subscription #vscode #openai #codex</title>
+      <link>https://tiktok.com/@vscode/video/7566331111677103390</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o0AEEAFMEFAeYAAAIRLDVmolQZAAI2pB7EtfCi.image.jpg" / &gt; OpenAI Codex now integrated in VS Code… and can be powered by your GitHub Copilot subscription #vscode #openai #codex</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7566331111677103390</guid>
+      <pubDate>Tue, 28 Oct 2025 17:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formerly know as custom chat modes. #githubcopilot #ai #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7569794245419207967</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oAA3Af2eDIASFA1IPNETpFE8GEqIo84Au9jnfA.image.jpg" / &gt; Formerly know as custom chat modes. #githubcopilot #ai #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7569794245419207967</guid>
+      <pubDate>Fri, 07 Nov 2025 01:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>You will be a terminal EXPERT by the end of this video #techtok #codetok #learnontiktok #vscode #programming </title>
+      <link>https://tiktok.com/@vscode/video/7575764302557236511</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oUMIAyIENjAhEPpKAFoUEjEAiDzZfRAeRACWAV.image.jpg" / &gt; You will be a terminal EXPERT by the end of this video #techtok #codetok #learnontiktok #vscode #programming </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7575764302557236511</guid>
+      <pubDate>Sun, 23 Nov 2025 03:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>My prompt for web design with Gemini 3 #vscode #gemini #techtok #codetok #programming </title>
+      <link>https://tiktok.com/@vscode/video/7576506090528001311</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_og5pJADLEECEAAmXfEAAIvAFeSl7Y2lgDvURVK~tplv-tiktokx-origin.image.jpg" / &gt; My prompt for web design with Gemini 3 #vscode #gemini #techtok #codetok #programming </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7576506090528001311</guid>
+      <pubDate>Tue, 25 Nov 2025 03:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 3 AI productivity tips #vscode #techtok #techtok #codetok #programming </title>
+      <link>https://tiktok.com/@vscode/video/7579825329729047839</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oQfNw7OAEACEASAmfDDBVpIwMEAMy8RoPFVEA3~tplv-tiktokx-origin.image.jpg" / &gt; Top 3 AI productivity tips #vscode #techtok #techtok #codetok #programming </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7579825329729047839</guid>
+      <pubDate>Thu, 04 Dec 2025 02:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in VS Code Insiders: Language Models editor #ai #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7580090414728891679</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oEzaaaBIPHxTiAkikBB7kRAHUAlAxA5lEHAqE.image.jpg" / &gt; New in VS Code Insiders: Language Models editor #ai #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7580090414728891679</guid>
+      <pubDate>Thu, 04 Dec 2025 19:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smarter, Better, Faster, Stronger #vscode #techtok #codetok #programming </title>
+      <link>https://tiktok.com/@vscode/video/7582079162765200670</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oQPiaAAABviABjA4AhEEIEo6RVvx930zNyTln.image.jpg" / &gt; Smarter, Better, Faster, Stronger #vscode #techtok #codetok #programming </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7582079162765200670</guid>
+      <pubDate>Wed, 10 Dec 2025 04:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Favorite way to use Copilot with April Yoho from GitHub 🤖✨ #vscode#techtok#codetok #learnontiktok</title>
+      <link>https://tiktok.com/@vscode/video/7580055588751543582</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oIekyYWAJtGxfxcI4wLedEA8Q8AbIAJOwfAUtA~tplv-tiktokx-origin.image.jpg" / &gt; Favorite way to use Copilot with April Yoho from GitHub 🤖✨ #vscode#techtok#codetok #learnontiktok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7580055588751543582</guid>
+      <pubDate>Fri, 12 Dec 2025 23:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is software engineering still in demand? With Sajjaad Khader 🚀 #techtok #codetok #learnontiktok</title>
+      <link>https://tiktok.com/@vscode/video/7580058879422106910</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oAAKBiAdEp0ADcB1IBxACKiAom8vxifO0qAlOs~tplv-tiktokx-origin.image.jpg" / &gt; Is software engineering still in demand? With Sajjaad Khader 🚀 #techtok #codetok #learnontiktok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7580058879422106910</guid>
+      <pubDate>Thu, 18 Dec 2025 23:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Source Control in VS Code now displays Git stashes 📦 Your hidden stashes just became easy to manage! #vscode #techtok #programming #learnontikok</title>
+      <link>https://tiktok.com/@vscode/video/7586817259528604959</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oUJbAAi6XRgn7HBAilAUBxap3ABA4IDvZElWr~tplv-tiktokx-origin.image.jpg" / &gt; Source Control in VS Code now displays Git stashes 📦 Your hidden stashes just became easy to manage! #vscode #techtok #programming #learnontikok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7586817259528604959</guid>
+      <pubDate>Tue, 23 Dec 2025 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Her most amazing Copilot build 🤖✨ #programming #techtok #vscode</title>
+      <link>https://tiktok.com/@vscode/video/7586817724731378974</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oERPTKAzEJBIlAlGpABd3ijwZAnUyiEaAn2Ar~tplv-tiktokx-origin.image.jpg" / &gt; Her most amazing Copilot build 🤖✨ #programming #techtok #vscode</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7586817724731378974</guid>
+      <pubDate>Wed, 24 Dec 2025 01:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Run tasks in the background while you code. 🔄 Git worktrees make multitasking simple and seamless. Try it now! #vscode #learnontikok #techtok</title>
+      <link>https://tiktok.com/@vscode/video/7586826571906960670</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ocicdAKBEiAfXIBJA0AAMULjKBiia0pBOSI7p9~tplv-tiktokx-origin.image.jpg" / &gt; Run tasks in the background while you code. 🔄 Git worktrees make multitasking simple and seamless. Try it now! #vscode #learnontikok #techtok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7586826571906960670</guid>
+      <pubDate>Fri, 26 Dec 2025 22:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thinking of starting a tech channel? 🤔  Hear from @sajjaadkhader! #techtok #learnontikok</title>
+      <link>https://tiktok.com/@vscode/video/7580061244745370911</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ocCfAkDM5FBAACcAIpEDxwfgQA16AmAYEVjG9V~tplv-tiktokx-origin.image.jpg" / &gt; Thinking of starting a tech channel? 🤔  Hear from @sajjaadkhader! #techtok #learnontikok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7580061244745370911</guid>
+      <pubDate>Mon, 29 Dec 2025 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manage auto-approved agent tools in VS Code 🛡️ Full control, nothing runs without your approval! #vscode #learnontikok #learnontiktok</title>
+      <link>https://tiktok.com/@vscode/video/7586831106926759198</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oUCIXqfpIppEqJkECT2GeIArqdALAA6AA5fSQl~tplv-tiktokx-origin.image.jpg" / &gt; Manage auto-approved agent tools in VS Code 🛡️ Full control, nothing runs without your approval! #vscode #learnontikok #learnontiktok</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7586831106926759198</guid>
+      <pubDate>Tue, 30 Dec 2025 11:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Skills just landed in VS Code stable - try them out now! #vscode #ai</title>
+      <link>https://tiktok.com/@vscode/video/7593158285096717599</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oAulAAfUKqAqZIQSDwLeIEAelorAJWIZrAGWEb~tplv-tiktokx-origin.image.jpg" / &gt; Agent Skills just landed in VS Code stable - try them out now! #vscode #ai</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7593158285096717599</guid>
+      <pubDate>Fri, 09 Jan 2026 00:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Requesting #vscode #features #ai </title>
+      <link>https://tiktok.com/@vscode/video/7595407697625763103</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_owEoVFDnREEqIIAavoEEO8CATAJAxrAqapff7B.image.jpg" / &gt; Requesting #vscode #features #ai </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7595407697625763103</guid>
+      <pubDate>Thu, 15 Jan 2026 02:21:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 3 VS Code keyboard shortcuts you need to know #vscode </title>
+      <link>https://tiktok.com/@vscode/video/7595710847180197151</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oQvsqEBOz2AAAwlBBARIYilsu5p0VaWEBiWAi.image.jpg" / &gt; Top 3 VS Code keyboard shortcuts you need to know #vscode </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7595710847180197151</guid>
+      <pubDate>Thu, 15 Jan 2026 21:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fastest way to change the font size in the VS Code editor + terminal—without affecting the sidebar/activity bar. #vscode  #features </title>
+      <link>https://tiktok.com/@vscode/video/7595850858911354143</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o0uAnEBBPA6Rou14AawA2EQlwApoiiWiIXBNi.image.jpg" / &gt; Fastest way to change the font size in the VS Code editor + terminal—without affecting the sidebar/activity bar. #vscode  #features </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7595850858911354143</guid>
+      <pubDate>Fri, 16 Jan 2026 07:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Extension of the Week Save So Much Time! #vscode #ai </title>
+      <link>https://tiktok.com/@vscode/video/7596115150634110238</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYREHiqPirRApdWIJ4RREVELB5aBA68Y8I0rE~tplv-tiktokx-origin.image.jpg" / &gt; This Extension of the Week Save So Much Time! #vscode #ai </description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7596115150634110238</guid>
+      <pubDate>Sat, 17 Jan 2026 00:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do you know these 8 VS Code UI tricks? ⚡️</title>
+      <link>https://tiktok.com/@vscode/video/7596612209891888414</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o4DI1XMqXAA72LZfAjYAAEeIHi6IQqA8ASSeCQ.image.jpg" / &gt; Do you know these 8 VS Code UI tricks? ⚡️</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7596612209891888414</guid>
+      <pubDate>Sun, 18 Jan 2026 08:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s the most downloaded VS Code extension of all time? 👀 I checked the VS Code Marketplace and the answer surprised me. Watch to find out. #vscode #vscodetips #coding</title>
+      <link>https://tiktok.com/@vscode/video/7597095687058115870</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oc8ikCBxEOIKBcAuAf9ZuIyM0lATGB0mtAiAAi.image.jpg" / &gt; What’s the most downloaded VS Code extension of all time? 👀 I checked the VS Code Marketplace and the answer surprised me. Watch to find out. #vscode #vscodetips #coding</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7597095687058115870</guid>
+      <pubDate>Mon, 19 Jan 2026 15:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have you tried github.dev yet? #programming #codetok #learnontiktok #github #developer</title>
+      <link>https://tiktok.com/@vscode/video/6995256325295082757</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_6d8802dbfc7443c6b469040c6f789780.image.jpg" / &gt; Have you tried github.dev yet? #programming #codetok #learnontiktok #github #developer</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/6995256325295082757</guid>
+      <pubDate>Wed, 11 Aug 2021 19:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The point of this video… #programming #vscode #techtok #learnontiktok #future</title>
+      <link>https://tiktok.com/@vscode/video/7021712937312095493</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_9e367e75a822480b9bd2249fffe2c5dd.image.jpg" / &gt; The point of this video… #programming #vscode #techtok #learnontiktok #future</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7021712937312095493</guid>
+      <pubDate>Fri, 22 Oct 2021 02:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programming HORROR 💀 #programming #edutok #techtok #vscode #horror</title>
+      <link>https://tiktok.com/@vscode/video/7039861668880452911</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_d0f92f2bb84c455b92765df3fc9a2bfd.image.jpg" / &gt; Programming HORROR 💀 #programming #edutok #techtok #vscode #horror</description>
+      <guid isPermaLink="false">https://tiktok.com/@vscode/video/7039861668880452911</guid>
+      <pubDate>Fri, 10 Dec 2021 00:18:45 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
